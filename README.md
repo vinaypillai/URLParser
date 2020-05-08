@@ -1,5 +1,5 @@
 # URL Parser
-URLParser is a library helps seperate urls into individual components, such as hostname, domain, public suffix domain, tld, and path.
+URLParser is a library that helps separate urls into individual components, such as hostname, domain, public suffix domain, tld, and path.
 
 ## Installation
 ### Node.js

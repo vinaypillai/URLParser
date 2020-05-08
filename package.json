@@ -1,7 +1,7 @@
 {
   "name": "jsurlparser",
   "version": "1.0.1",
-  "description": "URLParser is a JavaScript library that helps seperate urls into their individual components, such as hostname, domain, public suffix domain, tld, and path.",
+  "description": "URLParser is a library that helps separate urls into individual components, such as hostname, domain, public suffix domain, tld, and path.",
   "main": "index.min.js",
   "scripts": {
     "test": "mocha"
